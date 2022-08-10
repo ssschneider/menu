@@ -1,0 +1,150 @@
+@font-face {
+    font-family: 'Golden Age';
+    src: url(../fontes/golden-age-font.ttf);
+}
+
+@font-face {
+    font-family: 'VCR';
+    src: url(..//fontes/vcr-osd-font.ttf);
+}
+
+body {
+    background: url(../images/image.png) center center no-repeat;
+    background-size: cover;
+    height: 2350px;
+}
+
+.header {
+    text-align: center;
+    margin: 40px auto 5px auto;
+    font-family:'Golden Age', sans-serif;
+    background: #00ff00 center center no-repeat;
+    width: 600px;
+    height: 130px;
+    position: relative;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.header h1 {
+    padding: 10px 0;
+}
+
+.header nav {
+    display: inline-block;
+    margin: 5px;
+    font-size: 14px;
+    justify-content: space-between;
+}
+
+.header ul li {
+    display: inline-block;
+    padding: 15px 10px 5px 10px;
+}
+
+.header ul li a:hover {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+section {
+    background-color: #00ff00;
+    text-align: center;
+    width: 600px;
+    font-family: 'VCR', sans-serif;
+    margin: 20px auto;
+    padding: 0 0 20px 0 ;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.secao h2 {
+    background-color: #993399;
+    padding: 10px 0 10px 0;
+    width: 600px;
+}
+
+.secao div {
+    margin: 10px;
+    text-align: left;
+    width: 400px;
+    padding-left: 20px;
+}
+
+.secao h3 {
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 10px auto 24px auto;
+    border-bottom: 2px dotted #000;
+}
+
+.secao ul li {
+    display: flex;
+}
+
+.secao ul li p{
+    text-align: justify;
+    margin: 10px;
+    font-size: 18px;
+}
+
+.secao strong {
+    margin-top: 15px;
+    text-align: right;
+    left: 500px;
+    font-size: 20px;
+    position: relative;
+    top: 5%;
+    left: 5%;
+}
+
+footer {
+    font-family: 'VCR', sans-serif;  
+    margin: 20px;
+}
+
+.rodape {
+    text-align: center;
+    margin: 20px auto 40px auto;
+    padding: 10px;
+    font-family:'Golden Age', sans-serif;
+    background: #00ff00 center center no-repeat;
+    width: 600px;
+    height: 80px;
+    position: relative;
+}
+
+.rodape a:hover {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.rodape ul li {
+    display: inline-block;
+    padding: 15px 10px 5px 10px;
+}
+
+.redes-sociais {
+    background: #993399 center center no-repeat;
+    color: #fff;
+    width: 600px;
+    height: 120px;
+    margin: 25px -10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.redes-sociais p {
+    padding: 15px;
+}
+
+.redes-sociais img {
+    width: 45px;
+    height: 45px;
+    margin: 10px 30px;
+}
+
+.redes-sociais img:hover {
+    width: 50px;
+    height: 50px;
+}

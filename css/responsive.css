@@ -1,0 +1,52 @@
+@media (max-width: 630px) {
+    .header {
+        width: 500px;
+        margin: 40px auto 15px auto;
+        padding: 5px;
+    }
+
+    .secao {
+        width: 500px;
+        margin: 40px auto 15px auto;
+        padding-bottom: 5px;
+    }
+
+    .secao h2 {
+    background-color: #993399;
+    padding: 10px 0 10px 0;
+    width: 500px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    }
+
+    .secao strong {
+        margin-top: 15px;
+        text-align: right;
+        left: 500px;
+        font-size: 18px;
+        position: relative;
+        top: 5%;
+        left: -2%;
+    }
+
+    .rodape {
+        text-align: center;
+        margin: 20px auto 40px auto;
+        padding: 10px;
+        font-family:'Golden Age', sans-serif;
+        background: #00ff00 center center no-repeat;
+        width: 500px;
+        height: 80px;
+        position: relative;
+    }
+
+    .redes-sociais {
+        background: #993399 center center no-repeat;
+        color: #fff;
+        width: 500px;
+        height: 120px;
+        margin: 25px -10px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        }
+}
