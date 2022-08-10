@@ -10,12 +10,10 @@ Por uma das metas ter sido *desenvolver todo o projeto de maneira rápida e efic
 
 ## Linguagens
 
-![](../logo-html5.png)
-
-![](../logo-css3.png)
+HTML5 e CSS3 puro
 
 ## O Projeto em Funcionamento
 
-![](../menu-desktop.gif)
+![](./menu-desktop.gif)
 
-![](../menu-responsivo.gif)
+![](./menu-responsivo.gif)
