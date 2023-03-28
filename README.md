@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## 🌎 English Version
-< Other > World Pub is a personal project developed solo, being my first one. Yhe goal was to make a fair analysis of my knowledge so far and challenge myself by learning how to deal with bugs as they appear. To do that, I've used:
+< Extraterrestrial > World Pub is a personal project developed solo, being my first one. The goal was to make a fair hand-on analysis of my knowledge so far and challenge myself by learning how to deal with bugs as they appear. To do that, I've used:
 - HTML and CSS
 
 > You can check out the deploy by [clicking here](https://ssschneider.github.io/menu/)
