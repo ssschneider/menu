@@ -1,19 +1,36 @@
-# Menu "Pub de < Outro > Planeta
+<h1 align="center"> Pub de < Outro > Planeta  </h1>
 
-### A primeira missão solo a gente nunca esquece 😜🐱‍🚀
+<p align="center">
+Um menu genérico para um pub de tema ficção científica, onde todo o cardápio é igualmente temático. O objetivo para esse primeiro projeto pessoal independente foi testar meus conhecimento até o momento e me aprender a lidar com bugs conforme surgissem. <br/>
+</p>
 
-Um menu genérico para um pub de tema ficção científica, onde todo o cardápio é igualmente temático. O objetivo para esse primeiro projeto pessoal independente foi **testar os conhecimento até aqui e me virar majoritariamente sozinha com quaisquer problemas que eu encontrasse.**
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-english-version">English Version</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-## Dificuldades 🤯
+<p align="center">
+  <img alt="Preview" src="src/images/menu-desktop.gif" width="100%">
+</p>
 
-Por uma das metas ter sido *desenvolver todo o projeto de maneira rápida e eficaz, em menos de um dia*, em alguns momentos a principal dificuldade enfrentada foi a frustração de não saber como consertar um problema no código. Para lidar com isso, eu fiz uma pausa, removi minha cabeça do código e voltei alguns minutos depois, com um novo olhar e mais calma para lidar com a situação.
+## 🚀 Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Linguagens
+- HTML
+- CSS
+- Git 
+- Github
 
-HTML5 e CSS3 puro
+## 💻 Deploy
+> [Clique aqui para navegar para o projeto!](https://ssschneider.github.io/menu/)
 
-## O Projeto em Funcionamento
 
-![](./menu-desktop.gif)
+## 🌎 English Version
+< Other > World Pub is a personal project developed solo, being my first one. Yhe goal was to make a fair analysis of my knowledge so far and challenge myself by learning how to deal with bugs as they appear. To do that, I've used:
+- HTML and CSS
 
-![](./menu-responsivo.gif)
+> You can check out the deploy by [clicking here](https://ssschneider.github.io/menu/)
+
+---
+### Desenvolvido por Sarah Schneider 🖖
